@@ -1,6 +1,6 @@
 ## Jethro Whaley
 
-After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to constantly learn new tricks every day. 
+After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day. 
 
 As of November 2018 I have embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aim to learn as much as I can about professional coding, industry best practice and building projects both in groups and individually. Whilst coming from a non-technical and humanities background, I feel I have developed many applicable skills accross my life which will help me grow into the rounded developer I hope to be.
 
