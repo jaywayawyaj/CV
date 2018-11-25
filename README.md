@@ -1,5 +1,8 @@
-## Your Name
+## Jethro Whaley
 
+After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind and reverse engineering the solution. I love to constantly learn new tricks every day. 
+
+I have embarked on a bootcamp at (Makers Academy)[https://makers.tech/]
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
