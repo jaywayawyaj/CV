@@ -59,6 +59,6 @@ A variety of roles at a busy restaurant in central Sheffield.
 
 ## Hobbies and Interests
 
-- 
+- *Cycling* 
 
 
