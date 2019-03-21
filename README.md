@@ -1,4 +1,6 @@
-## Jethro Whaley
+# Jethro Whaley
+
+## Background
 
 After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day. 
 
@@ -31,7 +33,7 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 
 - OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript, React.js
+- Ruby, Rails, JavaScript, React.js, HTML, CSS
 - RSpec, Jasmine, Enzyme, 
 #### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
 
