@@ -2,7 +2,9 @@
 
 After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day. 
 
-As of October 2018 I have embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aim to learn as much as I can about professional coding, industry best practice and building projects both in groups and individually. Whilst coming from a non-technical and humanities background, I feel I have developed many applicable skills accross my life which will help me grow into the rounded developer I hope to be.
+As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aimed to learn as much as I could about professional coding, industry best practice and building projects both in groups and individually. I feel that this journey has equipped me to 
+
+Whilst coming from a non-technical and humanities background, I feel I have developed many applicable skills accross my life which will help me grow into the rounded developer I hope to be.
 
 ## Skills
  
@@ -27,10 +29,10 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React.js
+- RSpec, Jasmine, Enzyme, 
 #### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
 
 #### University of Sussex (September 2005 to June 2008)
@@ -60,7 +62,7 @@ A variety of roles at a busy restaurant in central Sheffield.
 ## Hobbies and Interests
 
 - **Cycling**
-- **Climbing** - as if it's not obvious!
+- **Climbing**
 - **Reading**
 - **Travel**
 
