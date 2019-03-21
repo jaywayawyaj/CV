@@ -10,7 +10,7 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 |    **Project**   |**Description**       |**Technologies used**       |**Testing**       |
 |:-----:|:-----:|:-----:|:-----:|
-|   [ KeepAhead ] (https://github.com/jaywayawyaj/KeepAheadReactFrontEnd)     |       |       |       |
+|   [KeepAhead] (https://github.com/jaywayawyaj/KeepAheadReactFrontEnd)     |       |       |       |
 |       |       |       |       |
 |       |       |       |       | |
 
