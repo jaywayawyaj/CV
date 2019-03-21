@@ -1,12 +1,15 @@
-# <center>Jethro Whaley
+# <center>Jethro Whaley</center>
 
-## <center>Background
+
+## <center>Background</center>
+
 
 After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day.
 
 As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aimed to learn as much as I could about professional coding, industry best practice and building projects both in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
 
-## <center>Projects
+## <center>Projects</center>
+
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
@@ -17,21 +20,26 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 
 
-## <center>Skills
+## <center>Skills</center>
 
-#### <center>Creativity and Design
+
+#### <center>Creativity and Design</center>
+
 
 Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. Furthermore I have always had an interest in how things work and how to build them, and have embarked on a variety of projects which have allowed me to explore this, particularly with carpentry.
 
-#### <center>Critical Analysis
+#### <center>Critical Analysis</center>
+
 
 As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.
 
-#### <center>Teamwork
+#### <center>Teamwork</center>
+
 
 Throughout my career I have both worked in and led teams. I have worked my way from being within to managing and leading teams in the restaurant and rock climbing industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any industry. These are characteristics I have developed, and I have learnt to do so positively to ensure a positive feeling within teams I have worked with.
 
-## <center>Education
+## <center>Education</center>
+
 
 #### Makers Academy (October 2018 - March 2019)
 
@@ -56,9 +64,11 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 - A levels: 3 B's in History, Sociology and Theatre Studies
 - Took part in various international projects working on theatre and communication
 
-#### <center>Other qualifications
+#### <center>Other qualifications</center>
 
-## <center>Experience
+
+## <center>Experience</center>
+
 
 **The Arch Climbing Wall** (October 2013 - November 2018)    
 Route Setter
@@ -70,7 +80,8 @@ Working as a private chef for a private household, both in Portugal and the UK.
 Manager/Chef/Waiter
 A variety of roles at a busy restaurant in central Sheffield.
 
-## <center>Hobbies and Interests
+## <center>Hobbies and Interests</center>
+
 
 - **Cycling**
 - **Climbing**
