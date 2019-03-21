@@ -1,4 +1,5 @@
 # Jethro Whaley
+--------
 
 ## Background
 
@@ -10,11 +11,10 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, Postgres, SQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
 |  [Chitter](https://github.com/jaywayawyaj/chitter-challenge)|Makers Academy weekend challenge: "Like Twitter, but Chitter!" A clone of the popular social media site build over two days.|Ruby, Sinatra, DataMapper|RSpec, Rubocop, SimpleCov|
 |[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project to really further my JavaScript ability|JavaScript|Jasmine, ESlint|
-|       |       |       |       |
-|       |       |       |       ||
+|[Gilded Rose](https://github.com/jaywayawyaj/gilded-rose-js)|The classic kata attempted in JavaScript. A really enjoyable refactor of messy legacy code.|Javascript|Jasmine|
 
 
 
@@ -34,7 +34,7 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 
 ## Education
 
-#### Makers Academy (29 October 2018 - 01 March 2019)
+#### Makers Academy (October 2018 - March 2019)
 
 #### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
 - Curious and passionate about code. [PROVIDE EVIDENCE]
@@ -57,11 +57,11 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 - A levels: 3 B's in History, Sociology and Theatre Studies
 - Took part in various international projects working on theatre and communication
 
-#### Any other qualifications
+#### Other qualifications
 
 ## Experience
 
-**The Arch CLimbing Wall** (October 2013 - November 2018)    
+**The Arch Climbing Wall** (October 2013 - November 2018)    
 Route Setter
 Designing and creating bouldering problems for several climbing centres accross London. Working as part of a team and leading the team for a year to cover a sabbatical.
 **Private Chef** (June 2011 - October 2014)   
