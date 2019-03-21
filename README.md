@@ -10,9 +10,12 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
-|[KeepAhead](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, Postgres, SQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, Postgres, SQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
+|  [Chitter](https://github.com/jaywayawyaj/chitter-challenge)|Makers Academy weekend challenge: "Like Twitter, but Chitter!" A clone of the popular social media site build over two days.|Ruby, Sinatra, DataMapper|RSpec, Rubocop, SimpleCov|
+|[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project to really further my JavaScript ability|JavaScript|Jasmine, ESlint|
 |       |       |       |       |
-|       |       |       |       | |
+|       |       |       |       ||
+
 
 
 ## Skills
