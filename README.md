@@ -10,11 +10,7 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
-<<<<<<< HEAD
 |[KeepAhead](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, Postgres, SQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
-=======
-|   [KeepAhead] (https://github.com/jaywayawyaj/KeepAheadReactFrontEnd)     |       |       |       |
->>>>>>> 72dc16ed70c7be803cbb780e86c2b36c3c45b93c
 |       |       |       |       |
 |       |       |       |       | |
 
