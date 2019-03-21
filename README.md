@@ -2,14 +2,12 @@
 
 ## Background
 
-After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day. 
+After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day.
 
-As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aimed to learn as much as I could about professional coding, industry best practice and building projects both in groups and individually. I feel that this journey has equipped me to 
-
-Whilst coming from a non-technical and humanities background, I feel I have developed many applicable skills accross my life which will help me grow into the rounded developer I hope to be.
+As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aimed to learn as much as I could about professional coding, industry best practice and building projects both in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
 
 ## Skills
- 
+
 #### Creativity and Design
 
 Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. Furthermore I have always had an interest in how things work and how to build them, and have embarked on a variety of projects which have allowed me to explore this, particularly with carpentry.
@@ -34,7 +32,7 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, React.js, HTML, CSS
-- RSpec, Jasmine, Enzyme, 
+- RSpec, Jasmine, Enzyme,
 #### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
 
 #### University of Sussex (September 2005 to June 2008)
@@ -67,6 +65,3 @@ A variety of roles at a busy restaurant in central Sheffield.
 - **Climbing**
 - **Reading**
 - **Travel**
-
-
-
