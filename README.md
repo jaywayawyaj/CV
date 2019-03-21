@@ -6,6 +6,15 @@ After years of creating and working out problems in the rock climbing industry, 
 
 As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I aimed to learn as much as I could about professional coding, industry best practice and building projects both in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
 
+## Projects
+
+|    **Project**   |**Description**       |**Technologies used**       |**Testing**       |
+|:-----:|:-----:|:-----:|:-----:|
+|   [KeepAhead] ()    |       |       |       |
+|       |       |       |       |
+|       |       |       |       | |
+
+
 ## Skills
 
 #### Creativity and Design
