@@ -90,7 +90,7 @@ Working as a private chef for a private household, both in Portugal and the UK.
 Manager/Chef/Waiter
 A variety of roles at a busy restaurant in central Sheffield.
 
-<h2 align="center">Hobbies and Interests</h2>
+<h2 align="center">Interests</h2>
 
 
 - **Cycling**
