@@ -100,7 +100,7 @@ A variety of roles at a busy restaurant in central Sheffield.
 <h2 align="center">Interests</h2>
 
 
-- **Cycling**
-- **Climbing**
-- **Reading**
-- **Travel**
+- Cycling
+- Climbing
+- Reading
+- Travel
