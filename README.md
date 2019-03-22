@@ -41,7 +41,7 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 <h4 align="center">Creativity and Design</h4>
 
 
-Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. Furthermore I have always had an interest in how things work and how to build them, and have embarked on a variety of projects which have allowed me to explore this, particularly with carpentry.
+Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification.
 
 <h4 align="center">Critical Analysis</h4>
 
@@ -50,7 +50,8 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 <h4 align="center">Teamwork</h4>
 
 
-Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. Being able to take these skills into the tech world
+
+Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team.
 
 <h2 align="center">Education</h2>
 
@@ -82,16 +83,19 @@ Throughout my career I have both worked in and led/managed teams across differen
 <h2 align="center">Experience</h2>
 
 
-**The Arch Climbing Wall** (October 2013 - November 2018)    
-Route Setter
-Designing and creating bouldering problems for several climbing centres accross London. Working as part of a team and leading the team for a year to cover a sabbatical.
+##### The Arch Climbing Wall (October 2013 - November 2018)    
+###### Route Setter
 
-**Private Chef** (June 2011 - October 2014)   
-Chef
+Designing and creating bouldering problems for several climbing centres across London. Working as part of a team which I led/managed for a year.
+
+##### Private Chef (June 2011 - October 2014)   
+
 Working as a private chef for a private household, both in Portugal and the UK.
 
-**The Wig and Pen** (March 2009 - May 2011)
-Manager/Chef/Waiter
+##### The Wig and Pen (March 2009 - May 2011)
+
+###### Manager/Chef/Waiter
+
 A variety of roles at a busy restaurant in central Sheffield.
 
 <h2 align="center">Interests</h2>
