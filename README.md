@@ -82,18 +82,18 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 <h2 align="center">Experience</h2>
 
 
-##### The Arch Climbing Wall (October 2013 - November 2018)    
-###### Route Setter
+#### The Arch Climbing Wall (October 2013 - November 2018)    
+##### Route Setter
 
 Designing and creating bouldering problems for several climbing centres across London. Working as part of a team which I led/managed for a year.
 
-##### Private Chef (June 2011 - October 2014)   
+#### Private Chef (June 2011 - October 2014)   
 
 Working as a private chef for a private household, both in Portugal and the UK.
 
-##### The Wig and Pen (March 2009 - May 2011)
+#### The Wig and Pen (March 2009 - May 2011)
 
-###### Manager/Chef/Waiter
+##### Manager/Chef/Waiter
 
 A variety of roles at a busy restaurant in central Sheffield.
 
