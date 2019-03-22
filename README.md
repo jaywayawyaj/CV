@@ -83,9 +83,11 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 **The Arch Climbing Wall** (October 2013 - November 2018)    
 Route Setter
 Designing and creating bouldering problems for several climbing centres accross London. Working as part of a team and leading the team for a year to cover a sabbatical.
+
 **Private Chef** (June 2011 - October 2014)   
 Chef
 Working as a private chef for a private household, both in Portugal and the UK.
+
 **The Wig and Pen** (March 2009 - May 2011)
 Manager/Chef/Waiter
 A variety of roles at a busy restaurant in central Sheffield.
