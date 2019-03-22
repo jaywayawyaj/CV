@@ -56,16 +56,14 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 
 #### Makers Academy (October 2018 - March 2019)
 
-#### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, React.js, HTML, CSS
-- RSpec, Jasmine, Enzyme,
-#### TO FOLLOW WITH MORE MAKERS EXPERIENCE!
+- RSpec, Jasmine, Enzyme
 
 #### University of Sussex (September 2005 to June 2008)
 
@@ -75,7 +73,7 @@ Throughout my career I have both worked in and led teams. I have worked my way f
 #### Sandown High School
 
 - A levels: 3 B's in History, Sociology and Theatre Studies
-- Took part in various international projects working on theatre and communication
+- Took part in various international projects working on theatre, diversity and communication
 
 <h2 align="center">Other qualifications</h2>
 
