@@ -1,4 +1,4 @@
-<b><h1 align="center">Jethro Whaley</h1></b>
+<h1 align="center">Jethro Whaley</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jethro-whaley-69968678/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
@@ -35,7 +35,7 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 
 
-<b><h2 align="center">Skills</h2></b>
+<h2 align="center">Skills</h2>
 
 <h4 align="center">Teamwork</h4>
 
