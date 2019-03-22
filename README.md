@@ -8,8 +8,8 @@
 [Background ](#background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
-[Experience ](#experience) |
 [Education ](#education) |
+[Experience ](#experience) |
 [Interests ](#interests)
 
 </div>
@@ -40,7 +40,7 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 <h4 align="center">Teamwork</h4>
 
 
-Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team.
+Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading when the situation dictated. I feel like I was able to contribute to an open, honest dynamic which worked efficiently and effectively.
 
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
@@ -51,7 +51,7 @@ I have a natural aptitude to pick up new concepts quickly. I enjoy the process o
 <h4 align="center">Creativity and Design</h4>
 
 
-Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems.
+Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and thier associations for a short AirBnB clone project.
 
 <h4 align="center">Critical Analysis</h4>
 
@@ -62,10 +62,6 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 
 
 #### Makers Academy (October 2018 - March 2019)
-
-- Curious and passionate about code
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC
 - Agile/XP
@@ -81,8 +77,6 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 
 - A levels: 3 B's in History, Sociology and Theatre Studies
 - Took part in various international projects working on theatre, diversity and communication
-
-<h2 align="center">Other qualifications</h2>
 
 
 <h2 align="center">Experience</h2>
