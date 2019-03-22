@@ -1,4 +1,4 @@
-<h1 align="center">Jethro Whaley</h1>
+<b><h1 align="center">Jethro Whaley</h1></b>
 <p align="center">
 <a href="https://www.linkedin.com/in/jethro-whaley-69968678/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
@@ -35,23 +35,28 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 
 
-<h2 align="center">Skills</h2>
+<b><h2 align="center">Skills</h2></b>
+
+<h4 align="center">Teamwork</h4>
+
+
+Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team.
+
+
+<h4 align="center">Fast Learner, Good Problem Solver</h4>
+
+I have a natural aptitude to pick up new concepts quickly. I enjoy the process of working out how to use a tool, be it technical or mechanical, and employing it in the right circumstance. I can also take this knowledge and use it to problem solve swiftly and effectively. At many points during Makers Academy I had to utilise these abilities to learn and progress, such as debugging CORS errors during our final project - a concept I'd never even encountered previously.
 
 
 <h4 align="center">Creativity and Design</h4>
 
 
-Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification.
+Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems.
 
 <h4 align="center">Critical Analysis</h4>
 
 As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.
 
-<h4 align="center">Teamwork</h4>
-
-
-
-Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team.
 
 <h2 align="center">Education</h2>
 
