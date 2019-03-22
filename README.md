@@ -27,10 +27,11 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
 |  [Chitter](https://github.com/jaywayawyaj/chitter-challenge)|Makers Academy weekend challenge: "Like Twitter, but Chitter!" A clone of the popular social media site build over two days.|Ruby, Sinatra, DataMapper|RSpec, Rubocop, SimpleCov|
-|[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project to really further my JavaScript ability|JavaScript|Jasmine, ESlint|
+|[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project to further my JavaScript ability.|JavaScript|Jasmine, ESlint|
 |[Gilded Rose](https://github.com/jaywayawyaj/gilded-rose-js)|The classic kata attempted in JavaScript. A really enjoyable refactor of messy legacy code.|Javascript|Jasmine|
+|[Rock, Paper, Scissors](https://github.com/jaywayawyaj/rps-challenge)|An early project from Makers Academy. A simple take on the classic game.|Ruby, Sinatra|Rspec, Rubocop, SimpleCov|
 
 
 
@@ -49,7 +50,7 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 <h4 align="center">Teamwork</h4>
 
 
-Throughout my career I have both worked in and led teams. I have worked my way from being within to managing and leading teams in the restaurant and rock climbing industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any industry. These are characteristics I have developed, and I have learnt to do so positively to ensure a positive feeling within teams I have worked with.
+Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. Being able to take these skills into the tech world
 
 <h2 align="center">Education</h2>
 
