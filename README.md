@@ -37,21 +37,25 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 
 <h2 align="center">Skills</h2>
 
-<h4 align="center">Teamwork</h4>
+<h4 align="center">Teamwork and Collaboration</h4>
 
 
-Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading when the situation dictated. I feel like I was able to contribute to an open, honest dynamic which worked efficiently and effectively.
+Working collaboratively is a real joy. Being able to learn with others, sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a really enjoyable experience and really drove home the importance of XP values to me. Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading when the situation dictated. I feel like I was able to contribute to an open, honest dynamic which worked efficiently and effectively. 
 
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
 
 I have a natural aptitude to pick up new concepts quickly. I enjoy the process of working out how to use a tool, be it technical or mechanical, and employing it in the right circumstance. I can also take this knowledge and use it to problem solve swiftly and effectively. At many points during Makers Academy I had to utilise these abilities to learn and progress, such as debugging CORS errors during our final project - a concept I'd never even encountered previously.
 
+<h4 align="center">Attention to Detail, Clean Code Lover</h4>
+
+I love code to be clean and
+
 
 <h4 align="center">Creativity and Design</h4>
 
 
-Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and thier associations for a short AirBnB clone project.
+Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and their associations for a short AirBnB clone project.
 
 <h4 align="center">Critical Analysis</h4>
 
@@ -82,18 +86,17 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 <h2 align="center">Experience</h2>
 
 
-#### The Arch Climbing Wall (October 2013 - November 2018)    
-##### Route Setter
+**The Arch Climbing Wall** (October 2013 - November 2018) *Route Setter*
 
-Designing and creating bouldering problems for several climbing centres across London. Working as part of a team which I led/managed for a year.
 
-#### Private Chef (June 2011 - October 2014)   
+Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across 3 centres. Supplementary to this there were many other responsibilities and roles which I undertook - team management, stock management and ordering, budget considerations and carpentry/building.
 
-Working as a private chef for a private household, both in Portugal and the UK.
+**Private Chef** (June 2011 - October 2014) *chef*
 
-#### The Wig and Pen (March 2009 - May 2011)
+In this role I lived in the residence of a family in Portugal and looked after all of the culinary needs of them and their guests. On top of the cooking, I had to do a lot of sourcing high quality ingredients whilst managing the budget effectively. This included menu design and catering for events of 30 or more people, as well as a service element.
 
-##### Manager/Chef/Waiter
+**The Wig and Pen** (March 2009 - May 2011) *Manager/Chef/Waiter*
+
 
 A variety of roles at a busy restaurant in central Sheffield.
 
