@@ -40,7 +40,8 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 <h4 align="center">Teamwork and Collaboration</h4>
 
 
-Working collaboratively is a real joy. Being able to learn with others, sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a really enjoyable experience and really drove home the importance of XP values to me. Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading when the situation dictated. I feel like I was able to contribute to an open, honest dynamic which worked efficiently and effectively. 
+Working collaboratively is a real joy. Being able to learn with others, sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a really enjoyable experience and really drove home the importance of XP values to me.
+Throughout my career I have both worked in and led/managed teams across different industries. Having the ability to communicate between, assess the needs of, work with, and direct people is essential in any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading when the situation dictated. I feel like I was able to contribute to an open, honest dynamic which worked efficiently and effectively.
 
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
@@ -49,8 +50,7 @@ I have a natural aptitude to pick up new concepts quickly. I enjoy the process o
 
 <h4 align="center">Attention to Detail, Clean Code Lover</h4>
 
-I love code to be clean and
-
+Code that is easy to understand and easy to change is something I value. I had the importance of clean code ingrained in me when I first started learning code and have carried that process on through my learning journey. Code should be easily readable by another developer - the flow of data transparent, and the functionality apparent. I also like to have an extensive test suite to add to this, allowing someone to use my code and tests as a foundation if they need to build upon my work.
 
 <h4 align="center">Creativity and Design</h4>
 
@@ -59,7 +59,7 @@ Throughout my career I have been drawn to roles in which design and creativity h
 
 <h4 align="center">Critical Analysis</h4>
 
-As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.
+As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed. These attributes are hugely important
 
 
 <h2 align="center">Education</h2>
@@ -67,10 +67,13 @@ As a rock climbing route setter I have had to have my work constantly evaluated 
 
 #### Makers Academy (October 2018 - March 2019)
 
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, React.js, HTML, CSS
+- OOP, TDD
+- Ruby, JavaScript, HTML/CSS
+- Rails, React.js, Sinatra
 - RSpec, Jasmine, Enzyme
+- PostgresSQL, Active Record, DataMapper
+- Git
+- Agile/XP, Pair Programming
 
 #### University of Sussex (September 2005 to June 2008)
 
