@@ -46,18 +46,24 @@ Throughout my career I have both worked in and led/managed teams across differen
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
 
+
 I have a natural aptitude to pick up new concepts quickly. I enjoy the process of working out how to use a tool, be it technical or mechanical, and employing it in the right circumstance. I can also take this knowledge and use it to problem solve swiftly and effectively. At many points during Makers Academy I had to utilise these abilities to learn and progress, such as debugging CORS errors during our final project - a concept I'd never even encountered previously.
+
 
 <h4 align="center">Attention to Detail, Clean Code Lover</h4>
 
+
 Code that is easy to understand and easy to change is something I value. I had the importance of clean code ingrained in me when I first started learning code and have carried that process on through my learning journey. Code should be easily readable by another developer - the flow of data transparent, and the functionality apparent. I also like to have an extensive test suite to add to this, allowing someone to use my code and tests as a foundation if they need to build upon my work.
+
 
 <h4 align="center">Creativity and Design</h4>
 
 
 Throughout my career I have been drawn to roles in which design and creativity have been important. From creating rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and their associations for a short AirBnB clone project.
 
+
 <h4 align="center">Critical Analysis</h4>
+
 
 Giving and receiving critical analysis is an intrinsic part of working with other people in software, whether it be directly whilst pairing, during retro's or providing feedback on pull requests. As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.  
 
