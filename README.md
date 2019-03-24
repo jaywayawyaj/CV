@@ -59,7 +59,7 @@ Throughout my career I have been drawn to roles in which design and creativity h
 
 <h4 align="center">Critical Analysis</h4>
 
-As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed. These attributes are hugely important
+As a rock climbing route setter I have had to have my work constantly evaluated by professionals, customers, peers and myself. I feel like having the ability to analyse a product or output that I have created and reassess it, taking in the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it is an important skill. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed. 
 
 
 <h2 align="center">Education</h2>
