@@ -29,9 +29,9 @@ As of October 2018 I embarked on a 16 week bootcamp at [Makers Academy](https://
 |:-----:|:-----:|:-----:|:-----:|
 |KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy. In two weeks my team and I built a web app with which you can donate money to less fortunate people at a participating location.|Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
 |  [Chitter](https://github.com/jaywayawyaj/chitter-challenge)|Makers Academy weekend challenge: "Like Twitter, but Chitter!" A clone of the popular social media site build over two days.|Ruby, Sinatra, DataMapper|RSpec, Rubocop, SimpleCov|
-|[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project to further my JavaScript ability.|JavaScript|Jasmine, ESlint|
+|[Bank Tech Test](https://github.com/jaywayawyaj/bank-tech-test)|A banking program from a week of tech tests. I used this project as an exercise in JavaScript fluency.|JavaScript|Jasmine, ESlint|
 |[Gilded Rose](https://github.com/jaywayawyaj/gilded-rose-js)|The classic kata attempted in JavaScript. A really enjoyable refactor of messy legacy code.|Javascript|Jasmine|
-|[Rock, Paper, Scissors](https://github.com/jaywayawyaj/rps-challenge)|An early project from Makers Academy. A simple take on the classic game.|Ruby, Sinatra|Rspec, Rubocop, SimpleCov|
+|[Rock, Paper, Scissors](https://github.com/jaywayawyaj/rps-challenge)|An early project from Makers Academy. A simple take on the classic game, this was my first app that could be used in a browser.|Ruby, Sinatra|Rspec, Rubocop, SimpleCov|
 
 
 
