@@ -100,7 +100,7 @@ Giving and receiving critical analysis is an intrinsic part of working with othe
 
 Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across 3 centres. Supplementary to this there were many other responsibilities and roles which I undertook - team management, stock management and ordering, budget considerations and carpentry/building.
 
-**Private Chef** (June 2011 - October 2014) *chef*
+**Private Chef** (June 2011 - October 2014) *Chef*
 
 In this role I lived in the residence of a family in Portugal and looked after all of the culinary needs of them and their guests. On top of the cooking, I had to do a lot of sourcing high quality ingredients whilst managing the budget effectively. This included menu design and catering for events of 30 or more people, as well as a service element.
 
