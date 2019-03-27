@@ -98,16 +98,16 @@ Giving and receiving critical analysis is an intrinsic part of working with othe
 **The Arch Climbing Wall** (October 2013 - November 2018) *Route Setter*
 
 
-Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across 3 centres. Supplementary to this there were many other responsibilities and roles which I undertook - team management, stock management and ordering, budget considerations and carpentry/building.
+Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across three centres. Supplementary to this the range of responsibilities this position entailed included - team management, stock management and ordering, budget considerations and carpentry/building.
 
 **Private Chef** (June 2011 - October 2014) *Chef*
 
-In this role I lived in the residence of a family in Portugal and looked after all of the culinary needs of them and their guests. On top of the cooking, I had to do a lot of sourcing high quality ingredients whilst managing the budget effectively. This included menu design and catering for events of 30 or more people, as well as a service element.
+In this role I was responsible for all of the culinary needs of my employers and their guests at their home in Portugal. I designed and delivered menus and catered for events of thirty or more people, as well as sourcing high quality ingredients whilst managing the budget effectively. This role included a service element and required excellent interpersonal skills.
 
 **The Wig and Pen** (March 2009 - May 2011) *Manager/Chef/Waiter*
 
 
-A variety of roles at a busy restaurant in central Sheffield.
+A variety of roles at a busy restaurant in central Sheffield, where I worked in a team under pressure in a customer-facing capacity.
 
 <h2 align="center">Interests</h2>
 
