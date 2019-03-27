@@ -47,7 +47,7 @@ Throughout my career I have both worked in and managed teams across different in
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
 
 
-I have a natural aptitude to pick up new concepts quickly. I adept at working out how to use a tool, be it technical or mechanical, and employing it effectively in the right circumstance. I can also take this knowledge and use it to problem solve swiftly and effectively. At many points during Makers Academy I had to utilise these abilities to learn and progress, such as, for example, debugging CORS errors during our final project, which was a concept I'd never encountered previously.
+I have a natural aptitude to pick up new concepts quickly. I am adept at working out how to use a tool, be it technical or mechanical, and employing it effectively in the right circumstance. I can also take this knowledge and use it to problem solve swiftly and effectively. At many points during Makers Academy I had to utilise these abilities to learn and progress, such as, for example, debugging CORS errors during our final project, which was a concept I'd never encountered previously.
 
 
 <h4 align="center">Attention to Detail, Clean Code Lover</h4>
