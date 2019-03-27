@@ -41,7 +41,7 @@ As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https:/
 
 
 I really thrive when working collaboratively. Being able to learn with others, and sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a very enjoyable and interesting experience and drove home the importance of XP values to me.
-Throughout my career I have both worked in and managed teams across different industries. These experiences have developed my ability to communicate between, assess the needs of, work with, and direct people, all of which are essential to the success of any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading others, ass appropriate to the situation. I was able to contribute to the open, honest dynamic we created which was central to the teams success at working efficiently and effectively.
+Throughout my career I have both worked in and managed teams across different industries. These experiences have developed my ability to communicate between, assess the needs of, work with, and direct people, all of which are essential to the success of any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading others, as appropriate to the situation. I was able to contribute to the open, honest dynamic we created which was central to the teams success at working efficiently and effectively.
 
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
