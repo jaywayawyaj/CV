@@ -18,9 +18,9 @@
 <h2 align="center">Background</h2>
 
 
-After years of creating and working out problems in the rock climbing industry, I felt like a new challenge and development really stood out to me. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day.
+I am a full-stack developer. After years of creating and working out problems in the rock climbing industry, I felt like a new challenge. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day.
 
-As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https://makers.tech/) to immerse myself in a full stack web development course. I set out to learn as much as I could about professional coding, industry best practice and building projects in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
+As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https://makers.tech/) to immerse myself in a full-stack web development course. I set out to learn as much as I could about professional coding, industry best practice and building projects in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
 
 <h2 align="center">Projects</h2>
 
@@ -37,11 +37,16 @@ As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https:/
 
 <h2 align="center">Skills</h2>
 
-<h4 align="center">Teamwork and Collaboration</h4>
+<h4 align="center">Creativity and Design</h4>
 
 
-I really thrive when working collaboratively. Being able to learn with others, and sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a very enjoyable and interesting experience and drove home the importance of XP values to me.
-Throughout my career I have both worked in and managed teams across different industries. These experiences have developed my ability to communicate between, assess the needs of, work with, and direct people, all of which are essential to the success of any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading others, as appropriate to the situation. I was able to contribute to the open, honest dynamic we created which was central to the teams success at working efficiently and effectively.
+Throughout my career I have been drawn to roles in which design and creativity have been important. From plotting rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and their associations for a short AirBnB clone project.
+
+
+<h4 align="center">Critical Analysis</h4>
+
+
+Giving and receiving critical analysis is an intrinsic part of working with other people in software, whether it be directly whilst pairing, during retro's or providing feedback on pull requests. As a rock climbing route setter, my work was constantly evaluated by professionals, customers, my peers, and myself. I have the ability to analyse a product or output that I have created and to reassess it, considering the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.
 
 
 <h4 align="center">Fast Learner, Good Problem Solver</h4>
@@ -56,16 +61,11 @@ I have a natural aptitude to pick up new concepts quickly. I am adept at working
 Code that is easy to understand and easy to change is something I value. The importance of clean code was ingrained in me when I first started to code and I have carried that process on through my learning journey. I believe code should be easily readable by another developer: the flow of data should be transparent, and the functionality apparent. I also like to have an extensive test suite to add to this, allowing someone to use my code and tests as a foundation if they need to build upon my work.
 
 
-<h4 align="center">Creativity and Design</h4>
+<h4 align="center">Teamwork and Collaboration</h4>
 
 
-Throughout my career I have been drawn to roles in which design and creativity have been important. From plotting rock climbing routes through to creating menus and dishes as a chef, I have been able to successfully design output both from my own initiative and to customer specification. I love the design and modelling aspects of code and coming up with creative ways to solve problems, such as modelling out database tables and their associations for a short AirBnB clone project.
-
-
-<h4 align="center">Critical Analysis</h4>
-
-
-Giving and receiving critical analysis is an intrinsic part of working with other people in software, whether it be directly whilst pairing, during retro's or providing feedback on pull requests. As a rock climbing route setter, my work was constantly evaluated by professionals, customers, my peers, and myself. I have the ability to analyse a product or output that I have created and to reassess it, considering the opinions of people of different levels of skill and understanding, and to then understand the application of that output and rework it. Discussing and accepting critiques, reworking problems with the bigger picture in mind and sharing ownership are all valuable attributes I have developed.  
+I really thrive when working collaboratively. Being able to learn with others, and sharing knowledge and skills, really accelerated my learning at Makers Academy. Using the Agile process to make software was a very enjoyable and interesting experience and drove home the importance of XP values to me.
+Throughout my career I have both worked in and managed teams across different industries. These experiences have developed my ability to communicate between, assess the needs of, work with, and direct people, all of which are essential to the success of any team. During my final project at Makers I was able to take on a variety of roles within my team, both supporting and leading others, as appropriate to the situation. I was able to contribute to the open, honest dynamic we created which was central to the teams success at working efficiently and effectively.  
 
 
 <h2 align="center">Education</h2>
@@ -100,7 +100,7 @@ Giving and receiving critical analysis is an intrinsic part of working with othe
 
 Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across three centres. Supplementary to this the range of responsibilities this position entailed included - team management, stock management and ordering, budget considerations and carpentry/building.
 
-**Private Chef** (June 2011 - October 2014) *Chef*
+**Private Chef** (June 2011 - October 2013) *Chef*
 
 In this role I was responsible for all of the culinary needs of my employers and their guests at their home in Portugal. I designed and delivered menus and catered for events of thirty or more people, as well as sourcing high quality ingredients whilst managing the budget effectively. This role included a service element and required excellent interpersonal skills.
 
