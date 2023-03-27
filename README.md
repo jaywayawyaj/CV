@@ -24,7 +24,7 @@ As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https:/
 
 <h2 align="center">Experience</h2>
 
-LloydsDirect (formerly Echo)
+**LloydsDirect (formerly Echo)**
 
 Senior Software Engineer (April 2022 - January 2023)
 - I was responsible for mentoring other engineers, leading on projects and scoping out/architecting features to be designed and built, on top of working with the technologies and methods listed below.
