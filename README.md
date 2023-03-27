@@ -27,7 +27,6 @@ As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https:/
 LloydsDirect (formerly Echo)
 
 Senior Software Engineer (April 2022 - January 2023)
-jethro.whaley@gmail.com ❖ 07561848422 ❖ London, UK
 - I was responsible for mentoring other engineers, leading on projects and scoping out/architecting features to be designed and built, on top of working with the technologies and methods listed below.
 - As the longest serving engineer, I took a leading role in tying together engineering outcomes with product needs, as well as a lot of onboarding new colleagues. I was also responsible for assisting in the interview process for new engineers, product managers and designers.
 
