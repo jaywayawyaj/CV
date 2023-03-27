@@ -6,10 +6,10 @@
 <div align="center">
 
 [Background ](#background) |
+[Experience ](#experience) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Experience ](#experience) |
 [Interests ](#interests)
 
 </div>
@@ -21,6 +21,42 @@
 I am a full-stack developer. After years of creating and working out problems in the rock climbing industry, I felt like a new challenge. I love the process of having an end goal in mind, considering possible solutions and creating the best one. I love to learn new tricks every day.
 
 As of October 2018 I embarked on a 16 week Boot Camp at [Makers Academy](https://makers.tech/) to immerse myself in a full-stack web development course. I set out to learn as much as I could about professional coding, industry best practice and building projects in groups and individually. This first step of my journey into software development has left me well equipped and eager to learn more.
+
+<h2 align="center">Experience</h2>
+
+LloydsDirect (formerly Echo)
+
+Senior Software Engineer (April 2022 - January 2023)
+jethro.whaley@gmail.com ❖ 07561848422 ❖ London, UK
+▪ I was responsible for mentoring other engineers, leading on projects and scoping out/architecting features to be designed and built, on top of working with the technologies and methods listed below.
+▪ As the longest serving engineer, I took a leading role in tying together engineering outcomes with product needs, as well as a lot of onboarding new colleagues. I was also responsible for assisting in the interview process for new engineers, product managers and designers.
+
+Software Engineer (May 2019 - April 2022)
+▪ Based in cross functional teams to design an build features mostly focussed on the patient experience. I worked as a full stack developer with my core technologies being Golang, Typescript, React/React Native, GraphQL/Apollo and Protobuf/gRPC. Some experience with Docker, Google Cloud, AWS, Grafana.
+▪ Worked closely with product, design, data, content and research in order to build services and flows which best suited the needs of our patients and the business.
+▪ Experience with a mircoservice(ish) architecture, as well as in-house deployment and internal tooling services.
+▪ I had ownership over the mobile release process which made use of a CI pipeline between our main branch,
+github actions and Appcenter, and which then integrated with the App and Play Stores for deployment.
+▪ Utilised monthly hack days to experiment with new technologies or build products or features either for
+irreverent projects or non-roadmap features within the business ecosystem. Examples include Flappy Echo, a Flappy Bird clone using React Native and MatterJS, and Echo Reads, an app for sharing book recommendations for the company book club.
+▪ I was central to the design system team, a small group of designers and engineers striving to create a consistent feel throughout our apps and improve the development experience.
+▪ Experience writing accessible code on web and mobile.
+
+
+**The Arch Climbing Wall** (October 2013 - November 2018) *Route Setter*
+
+
+Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across three centres. Supplementary to this the range of responsibilities this position entailed included - team management, stock management and ordering, budget considerations and carpentry/building.
+
+**Private Chef** (June 2011 - October 2013) *Chef*
+
+In this role I was responsible for all of the culinary needs of my employers and their guests at their home in Portugal. I designed and delivered menus and catered for events of thirty or more people, as well as sourcing high quality ingredients whilst managing the budget effectively. This role included a service element and required excellent interpersonal skills.
+
+**The Wig and Pen** (March 2009 - May 2011) *Manager/Chef/Waiter*
+
+
+A variety of roles at a busy restaurant in central Sheffield, where I worked in a team under pressure in a customer-facing capacity.
+
 
 <h2 align="center">Projects</h2>
 
@@ -92,22 +128,6 @@ Throughout my career I have both worked in and managed teams across different in
 - Took part in various international projects working on theatre, diversity and communication
 
 
-<h2 align="center">Experience</h2>
-
-
-**The Arch Climbing Wall** (October 2013 - November 2018) *Route Setter*
-
-
-Full time route setting for the Arch Climbing Wall, with one year of being the route setting manager. Primary responsibilities included designing and building bespoke climbing routes at a variety of difficulties across three centres. Supplementary to this the range of responsibilities this position entailed included - team management, stock management and ordering, budget considerations and carpentry/building.
-
-**Private Chef** (June 2011 - October 2013) *Chef*
-
-In this role I was responsible for all of the culinary needs of my employers and their guests at their home in Portugal. I designed and delivered menus and catered for events of thirty or more people, as well as sourcing high quality ingredients whilst managing the budget effectively. This role included a service element and required excellent interpersonal skills.
-
-**The Wig and Pen** (March 2009 - May 2011) *Manager/Chef/Waiter*
-
-
-A variety of roles at a busy restaurant in central Sheffield, where I worked in a team under pressure in a customer-facing capacity.
 
 <h2 align="center">Interests</h2>
 
