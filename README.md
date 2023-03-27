@@ -28,19 +28,19 @@ LloydsDirect (formerly Echo)
 
 Senior Software Engineer (April 2022 - January 2023)
 jethro.whaley@gmail.com ❖ 07561848422 ❖ London, UK
-▪ I was responsible for mentoring other engineers, leading on projects and scoping out/architecting features to be designed and built, on top of working with the technologies and methods listed below.
-▪ As the longest serving engineer, I took a leading role in tying together engineering outcomes with product needs, as well as a lot of onboarding new colleagues. I was also responsible for assisting in the interview process for new engineers, product managers and designers.
+- I was responsible for mentoring other engineers, leading on projects and scoping out/architecting features to be designed and built, on top of working with the technologies and methods listed below.
+- As the longest serving engineer, I took a leading role in tying together engineering outcomes with product needs, as well as a lot of onboarding new colleagues. I was also responsible for assisting in the interview process for new engineers, product managers and designers.
 
 Software Engineer (May 2019 - April 2022)
-▪ Based in cross functional teams to design an build features mostly focussed on the patient experience. I worked as a full stack developer with my core technologies being Golang, Typescript, React/React Native, GraphQL/Apollo and Protobuf/gRPC. Some experience with Docker, Google Cloud, AWS, Grafana.
-▪ Worked closely with product, design, data, content and research in order to build services and flows which best suited the needs of our patients and the business.
-▪ Experience with a mircoservice(ish) architecture, as well as in-house deployment and internal tooling services.
-▪ I had ownership over the mobile release process which made use of a CI pipeline between our main branch,
+- Based in cross functional teams to design an build features mostly focussed on the patient experience. I worked as a full stack developer with my core technologies being Golang, Typescript, React/React Native, GraphQL/Apollo and Protobuf/gRPC. Some experience with Docker, Google Cloud, AWS, Grafana.
+- Worked closely with product, design, data, content and research in order to build services and flows which best suited the needs of our patients and the business.
+- Experience with a mircoservice(ish) architecture, as well as in-house deployment and internal tooling services.
+- I had ownership over the mobile release process which made use of a CI pipeline between our main branch,
 github actions and Appcenter, and which then integrated with the App and Play Stores for deployment.
-▪ Utilised monthly hack days to experiment with new technologies or build products or features either for
+- Utilised monthly hack days to experiment with new technologies or build products or features either for
 irreverent projects or non-roadmap features within the business ecosystem. Examples include Flappy Echo, a Flappy Bird clone using React Native and MatterJS, and Echo Reads, an app for sharing book recommendations for the company book club.
-▪ I was central to the design system team, a small group of designers and engineers striving to create a consistent feel throughout our apps and improve the development experience.
-▪ Experience writing accessible code on web and mobile.
+- I was central to the design system team, a small group of designers and engineers striving to create a consistent feel throughout our apps and improve the development experience.
+- Experience writing accessible code on web and mobile.
 
 
 **The Arch Climbing Wall** (October 2013 - November 2018) *Route Setter*
